@@ -283,8 +283,6 @@ body {
   }
 
   .content-main__list-item {
-    border: 1px solid #000;
-
     width: calc((100% - 30px) / 2);
   }
 }
